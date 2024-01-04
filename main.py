@@ -59,3 +59,6 @@ def game():
 
 if __name__ == "__main__":
     game()
+
+def dilatoire():
+    pass #Cette fonction ne fait rien
